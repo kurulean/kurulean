@@ -1,5 +1,4 @@
 # Hi, I'm Matt 👋
-
 ## 💼 Experience
 
 - **Onda** - social activity planning app (React Native, Expo, TypeScript, Firebase)
@@ -7,5 +6,4 @@
 
 
 ## Here's my Leetcode Progress
-
 ![LeetCode Stats](https://leetcodestatscard.vercel.app/api/card?theme=ambient-gradient&hide_border=true&transparent=true&border_radius=18)
