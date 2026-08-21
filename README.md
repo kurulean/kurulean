@@ -3,7 +3,7 @@
 ### Experience
 - **Onda** - social activity planning app (React Native, Expo, TypeScript, Firebase)
 - Previously built at **UVSA** on a TypeScript/Next.js team of 10+
-- 
+
 ### Outside of work
 - Climbing
 - Working out
