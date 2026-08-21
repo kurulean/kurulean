@@ -10,4 +10,4 @@
 - League of Legends - Esports player for UCI
 <br>
 
-![LeetCode Stats](https://leetcodestatscard.vercel.app/api/card?theme=city-lights&hide_border=true&transparent=true&border_radius=18)
+![LeetCode Stats](https://leetcodestatscard.vercel.app/api/card?sections=solved%2Cstreak%2Cheatmap&theme=city-lights&hide_border=true&transparent=true&border_radius=29&top_skills=5&top_langs=3)
