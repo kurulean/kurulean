@@ -1,5 +1,5 @@
 ## Hi there 👋
-![LeetCode Stats](https://your-app.vercel.app/api/card)
+![LeetCode Stats](leetcodestatscard-a6urnnlt2-matthews-projects-3a697092.vercel.app)
 <!--
 **kurulean/kurulean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
