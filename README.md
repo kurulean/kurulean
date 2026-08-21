@@ -1,9 +1,10 @@
-# Hi, I'm Matt 👋
+### Hi, I'm Matt 👋
 
-## Experience
+### Experience
 - **Onda** - social activity planning app (React Native, Expo, TypeScript, Firebase)
 - Previously built at **UVSA** on a TypeScript/Next.js team of 10+
-# Outside of work
+- 
+### Outside of work
 - Climbing
 - Working out
 - League of Legends - Esports player for UCI
