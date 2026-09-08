@@ -8,7 +8,9 @@
 - Climbing
 - Working out
 - League of Legends - Esports player for UCI
-
+- 
+<br>
+<br>
 <br>
 <br>
 
@@ -32,6 +34,11 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
+
+<br>
+<br>
+<br>
+<br>
 
 ##
 ![LeetCode Stats](https://leetcodestatscard.vercel.app/api/card?sections=solved%2Cstreak%2Cheatmap&theme=city-lights&hide_border=true&transparent=true&border_radius=29&top_skills=5&top_langs=3)
