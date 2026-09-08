@@ -8,7 +8,7 @@
 - Climbing
 - Working out
 - League of Legends - Esports player for UCI
-- 
+
 <br>
 <br>
 <br>
