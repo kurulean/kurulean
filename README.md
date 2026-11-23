@@ -1,6 +1,7 @@
 ## Hi, I'm Matt 👋
 
 ### Experience
+- **VarsityGG** - Fullstack app connecting esports athletes to scholarship oppportunities (TypeScript, React, Tailwind CSS, Express, Firebase) 
 - **Onda** - social activity planning app (React Native, Expo, TypeScript, Firebase)
 - Previously built at **UVSA** on a TypeScript/Next.js team of 10+
 
